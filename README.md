@@ -534,6 +534,15 @@ Santosh is a former Biomedical Engineer, current Machine Learning Engineer. His 
 
 Akul is a junior in high school and is interested in NLP research. He would like to pursue cognitive science or computer science in the future and is happy to be a contributor in Natural Language Recommendations. Here is his portfolio: https://akul.org/
 
+### Liam Croteau
+
+Liam is a Nanotechnology engineering undergraduate student, interested in NLP and machine learning for better scientific information  retrieval. You can follow him on twitter here https://twitter.com/LiamCroteau.
+
+
+### Srihari Humbarwadi
+
+Srihari is a Computer Vision Engineer, interested in Computer Vision, NLP and machine learning, He is currently working to improve self supervision and data efficient training methods. You can follow him on twitter here https://twitter.com/srihari_rh.
+
 ## Questions, Comments, Collaborations, Feedback? 
 
 Research2vec@gmail.com 
